@@ -1,0 +1,1 @@
+# fcitx-solarized-skin
